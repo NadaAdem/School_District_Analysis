@@ -9,12 +9,25 @@ The purpose of this project is to analyze the data of an entire School District 
 
 
 ## Results 
- This analysis was conducted twice  due to potential academic dishonesty by the ninth grade students of Thomas High School.The first trial of this analysis included the full set of student data. In the second trial of this analysis, the ninth grade students of Thomas High School had their scores omitted from the calculations. The entire ninth grade class of Thomas High School have had their scores replaced with NaN. The DataFrame below is a summary representing the District after replacing the ninth graders' scores with NaN.
+ This analysis was conducted twice  due to potential academic dishonesty by the ninth grade students of Thomas High School.The first trial of this analysis included the full set of student data. In the second trial of this analysis, the ninth grade students of Thomas High School had their scores omitted from the calculations. 
+ 
 ###  First analysis included the full data set of all student 
-![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/District%20Summary.png)
-
-### Second analysis not included  ninth grade students of Thomas High School had their scores
 ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/Old_Disrtrict_Summary.png)
 
+### Second analysis not included  ninth grade students of Thomas High School had their scores
+![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/District%20Summary.png)
+
+The entire ninth grade class of Thomas High School have had their scores replaced with NaN. 
+Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School:
+
+- The overall passing percentage for Thomas High School fell to 65%
+- The overall passing percentage for the entire district fell to 64.9%
+
+When the ninth graders' of Thomas High School had their scores omitted from the calculations, the following changes occured:
+
+- The overall passing percentages of Thomas High School decreased by 0.11%
+- The average scores of Thomas High School for math and reading increased by 0.06
+- For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
+- School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
 
 ## Summary 
