@@ -9,6 +9,6 @@ The purpose of this project is to analyze the data of an entire School District 
 
 
 ## Results 
-
-
+![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/District%20Summary.png)
+![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/Old_Disrtrict_Summary.png)
 ## Summary 
