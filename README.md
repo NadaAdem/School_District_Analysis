@@ -45,7 +45,7 @@ Top 5 School performing schools
  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/school%20spending%20per%20student.png)
   
  - The scores by school size
-  ![This is an image]()
+  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/old_spending_student.png)
   
  -  The scores by school type
  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/school%20type.png)
