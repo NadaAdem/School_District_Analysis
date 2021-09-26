@@ -25,9 +25,9 @@ Top 5 School performing schools
  
  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/top%205%20%20performing%20schools.png)
  
- Bottom 5 performing schools
+  School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
  
- School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
+ Bottom 5 performing schools
    
    ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/bottom%205%20performing%20schools.png)
  
@@ -68,7 +68,7 @@ Relacing the ninth graders' scores with NaN caused Thomas High School's overall 
 
 ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/old_metric%20thomas%20high%20School.png)
 
-### Second analysis not included  ninth grade students of Thomas High School had their scores
+### Second analysis doesnot included  ninth grade students of Thomas High School had their scores
 - The District summary not include   ninth grade students of Thomas High School had their scores 
 
 ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/District%20Summary.png)
