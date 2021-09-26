@@ -51,7 +51,7 @@ Relacing the ninth graders' scores with NaN caused Thomas High School's overall 
  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/school%20spending%20per%20student.png)
   
  - The scores by school size
-  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/old_spending_student.png)
+  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/school%20size.png)
   
  -  The scores by school type
    School Sizes  considering  "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages
