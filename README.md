@@ -71,5 +71,5 @@ When the ninth graders' of Thomas High School had their scores omitted from the 
 - For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
 - School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
 
-## Summary 
+## Summary ..
 
