@@ -25,7 +25,7 @@ Top 5 School performing schools
  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/top%205%20%20performing%20schools.png)
  
  Bottom 5 performing schools
-  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/bottom%205%20performing%20schools.png)
+  
  
  ### 4.The average math score for each grade level from each school
  
