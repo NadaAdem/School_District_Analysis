@@ -33,7 +33,7 @@ Top 5 School performing schools
    
  ### 5. The average reading score for each grade level from each school
     
-    ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/new%20_read_9_12.png)
+   ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/new%20_read_9_12.png)
     
     
     
