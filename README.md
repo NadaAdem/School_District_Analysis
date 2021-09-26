@@ -39,6 +39,8 @@ Top 5 School performing schools
     
  ### 6. The scores by school spending per student, by school size, and by school type
  
+ ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/updated%20metrics%20for%20Thomas%20High.png)
+ 
  -  The scores by school spending per student
  ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/school%20spending%20per%20student.png)
   
@@ -52,20 +54,18 @@ Top 5 School performing schools
  
 ###  First analysis included the full data set of all student 
 ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/Old_Disrtrict_Summary.png)
+![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/old_metric%20thomas%20high%20School.png)
 
 ### Second analysis not included  ninth grade students of Thomas High School had their scores
 ![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/District%20Summary.png)
+!![This is an image](https://github.com/NadaAdem/School_District_Analysis/blob/main/Resources/updated%20metrics%20for%20Thomas%20High.png)
 
-The entire ninth grade class of Thomas High School have had their scores replaced with NaN. 
-Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School:
+
+
+The entire ninth grade class of Thomas High School have had their scores replaced with NaN and the ninth graders' of Thomas High School had their scores omitted from the calculations resulted in the following changes for Thomas High School
 
 - The overall passing percentage for Thomas High School fell to 65%
 - The overall passing percentage for the entire district fell to 64.9%
-- Thomas High School was no longer included on the list of top five schools.
-
-
-When the ninth graders' of Thomas High School had their scores omitted from the calculations, the following changes occured:
-
 - The overall passing percentages of Thomas High School decreased by 0.11%
 - The average scores of Thomas High School for math and reading increased by 0.06
 - For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
